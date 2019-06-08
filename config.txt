@@ -1,0 +1,6 @@
+owner=521709022097702925
+prefix=!
+game=Storm muisc
+stayinchannel=true
+songinstatus=false
+token=NTg2ODc2NDIzODkzOTQyMjgy.XPuZYw.ak0G_TdamccOxb9vEgJpRn6yh04
